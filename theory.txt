@@ -1,0 +1,5 @@
+number,floatNum = 238,1234.5678987654
+fmt.Printf(".2f : %.2f\n",floatNum)
+
+fmt.Printf("%*s\n",40,"text")
+
