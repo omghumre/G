@@ -26,5 +26,6 @@ func main() {
 	for sub,_ := range subjectMarks {
 		fmt.Println(sub)
 	}
+	println("g")
 
 }
